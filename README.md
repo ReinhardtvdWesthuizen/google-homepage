@@ -1,2 +1,2 @@
 # google-homepage
-# google-homepage
+Just a simple clone of the google homepage.
